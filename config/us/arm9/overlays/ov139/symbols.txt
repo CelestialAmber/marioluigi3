@@ -1,0 +1,5 @@
+func_ov139_020647c0 kind:function(arm,size=0x2c) addr:0x020647c0
+func_ov139_020647ec kind:function(arm,size=0x6c) addr:0x020647ec
+data_ov139_02064860 kind:data(any) addr:0x02064860
+data_ov139_02064878 kind:data(any) addr:0x02064878
+data_ov139_020648a0 kind:bss addr:0x020648a0

@@ -1,0 +1,6 @@
+    .text       start:0x020c9760 end:0x020cac2c kind:code align:32
+    .init       start:0x020cac2c end:0x020cad64 kind:code align:4
+    .ctor       start:0x020cad64 end:0x020cad6c kind:data align:4
+    .data       start:0x020cad80 end:0x020cada0 kind:data align:32
+    .bss        start:0x020cada0 end:0x020cae80 kind:bss align:32
+

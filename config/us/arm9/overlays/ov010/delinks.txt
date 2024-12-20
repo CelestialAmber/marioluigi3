@@ -1,0 +1,3 @@
+    .ctor       start:0x02065c60 end:0x02065c64 kind:data align:4
+    .bss        start:0x02065c80 end:0x02065c80 kind:bss align:32
+
